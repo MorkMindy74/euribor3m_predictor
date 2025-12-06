@@ -1,0 +1,11 @@
+# Data
+*.csv
+*.xlsx
+__pycache__/
+
+# Images
+*.png
+
+# Virtual Env
+venv/
+.env
